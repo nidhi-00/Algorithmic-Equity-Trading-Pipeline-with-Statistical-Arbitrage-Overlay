@@ -1,0 +1,23 @@
+# Local datasets
+data/*
+!data/.gitkeep
+
+# Generated outputs
+outputs/*
+!outputs/.gitkeep
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
